@@ -1,0 +1,39 @@
+p {
+  font-size: 2rem;
+}
+
+ol {
+  margin-left: -40px;
+  margin-top: -22px;
+  list-style-position: inside;
+  font-size: 2rem;
+}
+
+/* Write your CSS below, don't change the rules above. */
+
+p {
+  color: red;
+}
+
+.note {
+  font-size: 2rem;
+}
+
+
+#id-selector-demo {
+  color: green;
+}
+
+li[value="4"] {
+    color: blue;
+}
+
+*{
+  text-align: center;
+}
+
+body {
+  border: 2px solid black;
+  margin: 5rem 10rem;
+  padding: 2rem;
+}
