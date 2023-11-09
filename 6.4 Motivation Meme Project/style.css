@@ -1,0 +1,21 @@
+body {
+    background-color: #000000 ;
+    color: white;
+}
+
+div {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    text-align: center;
+}
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
